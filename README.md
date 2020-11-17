@@ -5,7 +5,7 @@ Investigate a Dataset is the second project in Data Analyst Nanodegree, it aims 
 ## Steps 
 * Download the dataset.
 * upload and read the dataset on the jupyter notebook.
-* Start the investigation and visualizations.
+* Start investigation and visualizations.
 
 ## Tools 
 * Python libraries NumPy, Pandas, Matplotlib and seaborn.
