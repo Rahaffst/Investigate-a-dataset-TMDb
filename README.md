@@ -1,4 +1,4 @@
-# investigate-a-dataset-TMDb
+# Investigate-a-dataset-TMDb
 
 Investigate a Dataset is the second project in Data Analyst Nanodegree, it aims to  use the Python libraries NumPy, Pandas, Matplotlib and seaborn. To analyze the dataset and then communicate the findings.
 
